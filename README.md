@@ -8,11 +8,15 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![Kusoneko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusoneko)](https://github.com/anuraghazra/github-readme-stats)
+[![Kusoneko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusoneko&theme=radical&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusoneko&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kusoneko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kusoneko&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Other:
 
