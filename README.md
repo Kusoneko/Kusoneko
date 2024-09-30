@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 ### Other:
 
-- 🔭 I’m currently working on unfortunately nothing at all.
 - 🌱 I’m currently learning Japanese.
-- 📫 How to reach me: https://kusoneko.moe has a huge list. Mostly, try by email encrypted with my GPG key, or try with XMPP. The rest I'm not quite as active.
 <!--
 
 I have exactly no fucking idea about these. Or no time to do anything I'd potentially list there.
