@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Github Trophies:
 
-[![trophy](https://github-profile-trophy-reiyua-mirror.vercel.app/?username=Kusoneko&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=Kusoneko&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Other:
 
